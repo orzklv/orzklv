@@ -1,5 +1,5 @@
 <p>
-    <a href="https://katsuki.moe"><img src="./assets/Welcome.png" alt="Welcome Image"></a>
+    <a href="https://katsuki.moe"><img src="./assets/Modernized.png" alt="Welcome Image"></a>
 </p>
 
 <p align="center">
