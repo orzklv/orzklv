@@ -3,7 +3,13 @@
 </p>
 
 <p align="center">
-    <h1 align="center">Perks</h1>
+  <samp>
+    <a href="https://katsuki.moe">website</a> .  
+    <a href="https://github.com/katsuki-yuri#js-contribution-activity">now</a> . 
+    <a href="https://github.com/orgs/uzinfocom-org/repositories?type=source">projects</a> . 
+    <a href="https://github.com/uzinfocom-org">work</a> .
+    <a href="https://t.me/yurionblog">telegram</a>
+  </samp>
 </p>
 
 <p>
