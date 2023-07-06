@@ -1,14 +1,14 @@
 <p>
-    <a href="https://katsuki.moe"><img src="./assets/Modernized.png" alt="Welcome Image"></a>
+    <a href="https://orzklv.uz"><img src="./assets/Modernized.png" alt="Welcome Image"></a>
 </p>
 
 <p align="center">
   <samp>
-    <a href="https://katsuki.moe">website</a> .  
-    <a href="https://github.com/katsuki-yuri#js-contribution-activity">now</a> . 
-    <a href="https://github.com/orgs/uzinfocom-org/repositories?type=source">projects</a> . 
+    <a href="https://orzklv.uz">website</a> .
+    <a href="https://github.com/orzklv#js-contribution-activity">now</a> .
+    <a href="https://github.com/orgs/uzinfocom-org/repositories?type=source">projects</a> .
     <a href="https://github.com/uzinfocom-org">work</a> .
-    <a href="https://t.me/yurionblog">telegram</a>
+    <a href="https://t.me/orzklvb">telegram</a>
   </samp>
 </p>
 
@@ -26,7 +26,7 @@
 
 
 <p align="center">
-    <a href="https://hits.sh/github.com/katsuki-yuri/">
-        <img src="https://hits.sh/github.com/katsuki-yuri.svg?view=today-total&label=Yuri's%20Viewers%20(today%20%2F%20total)&extraCount=1000&color=000000&labelColor=000000&logo=vercel">
+    <a href="https://hits.sh/github.com/orzklv/">
+        <img src="https://hits.sh/github.com/orzklv.svg?view=today-total&label=Sokhibjon's%20Viewers%20(today%20%2F%20total)&extraCount=1000&color=000000&labelColor=000000&logo=vercel">
   </a>
 </p>
