@@ -1,5 +1,5 @@
 <p>
-    <a href="https://orzklv.uz"><img src="./assets/Reworked.webp" alt="Welcome Image"></a>
+    <a href="https://orzklv.uz"><img src="./assets/Modernized.png" alt="Welcome Image"></a>
 </p>
 
 <p align="center">
