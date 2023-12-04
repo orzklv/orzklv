@@ -1,5 +1,5 @@
 <p>
-    <a href="https://orzklv.uz"><img src="./assets/Reworked.webp" alt="Welcome Image"></a>
+    <a href="https://orzklv.uz"><img src="./assets/Modernized.png" alt="Welcome Image"></a>
 </p>
 
 <p align="center">
@@ -8,8 +8,7 @@
     <a href="https://github.com/orzklv#js-contribution-activity">now</a> .
     <a href="https://github.com/search?q=orzklv&type=code">projects</a> .
     <a href="https://github.com/uzinfocom-org">work</a> .
-    <a href="https://t.me/orzklvb">telegram</a> .
-    <!-- <a href="https://misskey.uz/@orzklv">misskey</a> -->
+    <a href="https://t.me/orzklvb">telegram</a>
   </samp>
 </p>
 
