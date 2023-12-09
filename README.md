@@ -8,7 +8,7 @@
     <a href="https://github.com/orzklv#js-contribution-activity">now</a> .
     <a href="https://github.com/search?q=orzklv&type=code">projects</a> .
     <a href="https://github.com/uzinfocom-org">work</a> .
-    <a href="https://t.me/orzklvb">telegram</a> .
+    <a href="https://t.me/orzklvb">telegram</a>
     <!-- <a href="https://misskey.uz/@orzklv">misskey</a> -->
   </samp>
 </p>
