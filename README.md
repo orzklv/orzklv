@@ -1,5 +1,5 @@
 <p>
-    <a href="https://orzklv.uz"><img src="./assets/Reworked.webp" alt="Welcome Image"></a>
+    <a href="https://orzklv.uz"><img src="./assets-anime/Reworked.webp" alt="Welcome Image"></a>
 </p>
 
 <p align="center">
@@ -14,15 +14,15 @@
 </p>
 
 <p>
-  <a href="https://orzklv.uz"><img src="./assets/Trophy 1.webp" width=48% alt="Ex 'X' who used to be #1 in Uzbekistan"></a>
+  <a href="https://orzklv.uz"><img src="./assets-anime/Trophy 1.webp" width=48% alt="Ex 'X' who used to be #1 in Uzbekistan"></a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://git.kolyma.uz/archive"><img src="./assets/Trophy 2.webp" width=48% alt="13 years of experience"></a>
+  <a href="https://git.kolyma.uz/archive"><img src="./assets-anime/Trophy 2.webp" width=48% alt="13 years of experience"></a>
 </p>
 
 <p>
-  <a href="https://music.apple.com/profile/orzklv"><img src="./assets/Trophy 3.webp" width=48% alt="Crazy nerd in love with music"></a>
+  <a href="https://music.apple.com/profile/orzklv"><img src="./assets-anime/Trophy 3.webp" width=48% alt="Crazy nerd in love with music"></a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://yummyanime.club/users/id863269"><img src="./assets/Trophy 4.webp" width=48% alt="Weeb who loves anime to death"></a>
+  <a href="https://yummyanime.club/users/id863269"><img src="./assets-anime/Trophy 4.webp" width=48% alt="Weeb who loves anime to death"></a>
 </p>
 
 
