@@ -6,3 +6,5 @@ edition = "2021"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
+tapciify = { version = "3.3.1", default-features = false }
+image = { version = "0.25.5", features = ["webp"], default-features = false }
