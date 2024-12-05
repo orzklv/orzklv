@@ -11,13 +11,13 @@
   </samp>
 </p>
 
-<p>
+<p align="center">
   <a href="https://orzklv.uz"><img src="./assets-dark/Trophy 1.webp" width=48% alt="Ex 'X' who used to be #1 in Uzbekistan"></a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://git.kolyma.uz/archive"><img src="./assets-dark/Trophy 2.webp" width=48% alt="14 years of experience"></a>
 </p>
 
-<p>
+<p align="center">
   <a href="https://music.apple.com/profile/orzklv"><img src="./assets-dark/Trophy 3.webp" width=48% alt="Crazy nerd in love with music"></a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://yummyanime.club/users/id863269"><img src="./assets-dark/Trophy 4.webp" width=48% alt="Weeb who loves anime to death"></a>
