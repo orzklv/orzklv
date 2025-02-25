@@ -5,7 +5,6 @@
         <img alt="Welcome Image" src="./assets-light/Reworked.webp">
       </picture>
     </a>
-
 </p>
 
 <p align="center">
