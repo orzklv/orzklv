@@ -51,7 +51,6 @@
 
 <p align="center">
   <a href="https://hits.sh/github.com/orzklv/">
-    <img src="https://hits.sh/github.com/orzklv.svg?view=today-total&label=Sokhibjon's%20Viewers%20(today%20%2F%20total)&color=1A1A1A&labelColor=1A1A1A">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://hits.sh/github.com/orzklv.svg?view=today-total&label=Sokhibjon's%20Viewers%20(today%20%2F%20total)&color=1A1A1A&labelColor=1A1A1A">
       <img alt="Readme stats for viewers" src="https://hits.sh/github.com/orzklv.svg?view=today-total&label=Sokhibjon's%20Viewers%20(today%20%2F%20total)&color=FFFFFF&labelColor=FFFFFF">
