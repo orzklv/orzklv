@@ -11,8 +11,9 @@
   <samp>
     <a href="https://orzklv.uz">website</a> .
     <a href="https://github.com/orzklv#js-contribution-activity">now</a> .
-    <a href="https://github.com/search?q=orzklv&type=code">projects</a> .
-    <a href="https://github.com/uzinfocom-org">work</a>
+    <a href="https://github.com/search?q=orzklv&type=repositories">projects</a> .
+    <a href="https://github.com/uzinfocom-org">work</a> .
+    <a href="https://github.com/floss-uz">initiative</a>
   </samp>
 </p>
 
