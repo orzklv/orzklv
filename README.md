@@ -18,6 +18,10 @@ As a fan of RMS, I delegate Floss Uzbekistan which I'm striving to make it an of
 
 Also, I'm department leader at Uzinfocom Open Source, a team of researcher developers who creates stuff within' government's interest and also publishes those very solutions to open source for everybody's use/modification, sometimes our team takes part in global projects and contribute to them. We are only getting started!
 
+## Logo
+
+I like the design and concept of houndstooth, which is why I adopted houndstooth as my logo. Especially, I like when houndstooth comes in patterns and you can come up with different colors or even pixelate ligatures which makes it look very techy. Black and White pixel perfect or orange CRT'ish pixelated houndstooth is my most favorite ones amongst all combinations.
+
 <p>
   <a href="#">
     <picture>
