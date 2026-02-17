@@ -24,4 +24,4 @@ jobs:
         run: nix build
 
       - name: Run cargo tests
-        run: nix develop --command -- cargo test
+        run: CARGO_PROFILE_TEST_BUILD_OVERRIDE_DEBUG=true nix develop --command -- cargo test
