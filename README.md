@@ -6,8 +6,6 @@
   </a>
 </p>
 
-# Me
-
 Hi there, I'm a developer/advocate from Uzbekistan who writes Rust with Nix and do political management & advisoring (sort of consulting) for living at gov.
 
 ## Quickstory
