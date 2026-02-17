@@ -1,40 +1,29 @@
 <p>
-    <a href="https://orzklv.uz">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="./assets-dark/Reworked.webp">
-        <img alt="Welcome Image" src="./assets-light/Reworked.webp">
-      </picture>
-    </a>
-</p>
-
-<p align="center">
-  <a href="https://orzklv.uz">
+  <a href="#">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="./assets-dark/Trophy-1.webp">
-      <img alt="One who used to be the most impactful developer in Uzbekistan" width=48% src="./assets-light/Trophy-1.webp">
-    </picture>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://gulag.uz/explore">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="./assets-dark/Trophy-2.webp">
-      <img alt="15 years of experience" width=48%  src="./assets-light/Trophy-2.webp">
+      <img alt="Header for this README" src="./assets-light/header.webp">
     </picture>
   </a>
 </p>
 
-<p align="center">
-  <a href="https://music.apple.com/profile/orzklv">
+# Me
+
+Hi there, I'm a developer/advocate from Uzbekistan who writes Rust with Nix and do political management & advisoring (sort of consulting) for living at gov.
+
+## Quickstory
+
+Shortly speaking, I "somehow" got into the position where I am right now through years of brute-forcing things to people that I thought to be "true" or let's say "correct" and right now looking forward to fix things where I or things fugged up really hard.
+
+## Now
+
+As a fan of RMS, I delegate Floss Uzbekistan which I'm striving to make it an official governmental party to protect developers' right and bring the "Open Source Licenses" term to Uzbek constitution. Looking forward to witness these days with my own eyes.
+
+Also, I'm department leader at Uzinfocom Open Source, a team of researcher developers who creates stuff within' government's interest and also publishes those very solutions to open source for everybody's use/modification, sometimes our team takes part in global projects and contribute to them. We are only getting started!
+
+<p>
+  <a href="#">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="./assets-dark/Trophy-3.webp">
-      <img alt="Crazy nerd in love with music" width=48%  src="./assets-light/Trophy-3.webp">
-    </picture>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://floss.uz/about#team">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="./assets-dark/Trophy-4.webp">
-      <img alt="Floss Uzbekistan Maintainer" width=48% src="./assets-light/Trophy-4.webp">
+      <img alt="Footer for this README" src="./current-assets/footer.webp">
     </picture>
   </a>
 </p>
