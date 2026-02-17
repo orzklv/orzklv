@@ -1,5 +1,5 @@
 {
-  description = "A beginning of an awesome project bootstrapped with github:bleur-org/templates";
+  description = "Just a profile readme toy thing";
 
   inputs = {
     # Stable for keeping thins clean
