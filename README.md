@@ -8,18 +8,6 @@
 </p>
 
 <p align="center">
-  <samp>
-    <a href="https://orzklv.uz">website</a> .
-    <a href="https://github.com/orzklv#js-contribution-activity">now</a> .
-    <a href="https://github.com/search?q=orzklv&type=repositories">projects</a> .
-    <a href="https://github.com/uzinfocom-org">work</a> .
-    <a href="https://github.com/floss-uz">initiative</a> .
-    <a href="https://social.floss.uz/@orzklv">social</a> .
-    <a href="https://t.me/flossuzc">community</a>
-  </samp>
-</p>
-
-<p align="center">
   <a href="https://orzklv.uz">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="./assets-dark/Trophy-1.webp">
@@ -50,12 +38,3 @@
     </picture>
   </a>
 </p>
-
-<!--<p align="center">
-  <a href="https://hits.sh/github.com/orzklv/">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://hits.sh/github.com/orzklv.svg?view=today-total&label=Viewers%20(today%20%2F%20total)&color=1A1A1A&labelColor=1A1A1A">
-      <img alt="Readme stats for viewers" src="https://hits.sh/github.com/orzklv.svg?view=today-total&label=Viewers%20(today%20%2F%20total)&color=FFFFFF&labelColor=FFFFFF">
-    </picture>
-  </a>
-</p>-->
