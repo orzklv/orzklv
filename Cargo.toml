@@ -9,3 +9,4 @@ edition = "2024"
 [dependencies]
 tapciify = { version = "3.3.1", default-features = false }
 image = { version = "0.25.5", features = ["webp"], default-features = false }
+thiserror = "2.0.18"
