@@ -12,23 +12,29 @@
     flake-parts.url = "github:hercules-ci/flake-parts";
   };
 
-  outputs = inputs@{ flake-parts, ... }:
-    flake-parts.lib.mkFlake { inherit inputs; } ({ ... }: {
-      systems = [
-        "aarch64-darwin"
-        "x86_64-darwin"
-        "aarch64-linux"
-        "x86_64-linux"
-      ];
-      perSystem = {  pkgs, ... }: {
-        # Nix script formatter
-        formatter = pkgs.alejandra;
+  outputs =
+    inputs@{ self, flake-parts, ... }:
+    flake-parts.lib.mkFlake { inherit inputs; } (
+      { ... }:
+      {
+        systems = [
+          "aarch64-darwin"
+          "x86_64-darwin"
+          "aarch64-linux"
+          "x86_64-linux"
+        ];
+        perSystem =
+          { pkgs, ... }:
+          {
+            # Nix script formatter
+            formatter = pkgs.nixfmt-rs;
 
-        # Development environment
-        devShells.default = import ./shell.nix {inherit pkgs;};
+            # Development environment
+            devShells.default = import ./shell.nix self { inherit pkgs; };
 
-        # Output package
-        packages.default = pkgs.callPackage ./. {inherit pkgs;};
-      };
-    });
+            # Output package
+            packages.default = pkgs.callPackage ./. { inherit pkgs; };
+          };
+      }
+    );
 }

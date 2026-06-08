@@ -22,6 +22,10 @@ Also, I'm department leader at Uzinfocom Open Source, a team of researcher devel
 
 I like the design and concept of houndstooth, which is why I adopted houndstooth as my logo. Especially, I like when houndstooth comes in patterns and you can come up with different colors or even pixelate ligatures which makes it look very techy. Black and White pixel perfect or orange CRT'ish pixelated houndstooth is my most favorite ones amongst all combinations.
 
+## Goodbye GitHub
+
+You might mention that there are no repositories in my GitHub profile. I got fed up from all these unwanted AI thingies getting shoved in my face at GitHub, so I decided to move to Forgejo + Codeberg. Also, after a while I migrated many of the things from GitHub to Forgejo and Codeberg. My GitHub profile serves me only as a mean of contribution to projects hosted at GitHub.
+
 <p>
   <a href="#">
     <picture>
