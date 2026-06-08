@@ -24,7 +24,10 @@ I like the design and concept of houndstooth, which is why I adopted houndstooth
 
 ## Goodbye GitHub
 
-You might mention that there are no repositories in my GitHub profile. I got fed up from all these unwanted AI thingies getting shoved in my face at GitHub, so I decided to move to Forgejo + Codeberg. Also, after a while I migrated many of the things from GitHub to Forgejo and Codeberg. My GitHub profile serves me only as a mean of contribution to projects hosted at GitHub.
+You might mention that there are no repositories in my GitHub profile. I got fed up from all these unwanted AI thingies getting shoved in my face at GitHub, so I decided to move to [Forgejo] + [Codeberg]. Also, after a while I migrated many of the things from GitHub to [Forgejo] and [Codeberg]. My GitHub profile serves me only as a mean of contribution to projects hosted at GitHub.
+
+[Forgejo]: https://git.floss.uz/explore/repos
+[Codeberg]: https://codeberg.org/
 
 <p>
   <a href="#">
