@@ -6,10 +6,10 @@
     # nixpkgs.url = "github:nixos/nixpkgs/nixos-25.05";
 
     # Fresh and new for testing
-    nixpkgs.url = "github:nixos/nixpkgs?ref=nixos-unstable";
+    nixpkgs.url = "https://git.oss.uzinfocom.uz/xinux/nixpkgs/archive/nixos-unstable.tar.gz";
 
     # The flake-utils library
-    flake-parts.url = "github:hercules-ci/flake-parts";
+    flake-parts.url = "https://git.oss.uzinfocom.uz/mirrors/flake-parts/archive/main.tar.gz";
   };
 
   outputs =
