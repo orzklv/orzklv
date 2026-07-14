@@ -16,7 +16,7 @@ Shortly speaking, I "somehow" got into the position where I am right now through
 
 As a fan of RMS, I delegate Floss Uzbekistan which I'm striving to make it an official governmental party to protect developers' right and bring the "Open Source Licenses" term to Uzbek constitution. Looking forward to witness these days with my own eyes.
 
-Also, I'm department leader at Uzinfocom Open Source, a team of researcher developers who creates stuff within' government's interest and also publishes those very solutions to open source for everybody's use/modification, sometimes our team takes part in global projects and contribute to them. We are only getting started!
+Also, I'm Chief Technical Advisor and Department Leader at Uzinfocom Open Source, a team of researcher developers who creates stuff within' government's interest and also publishes those very solutions to open source for everybody's use/modification. Sometimes our team takes part in global projects and contribute to them. We are only getting started!
 
 ## Logo
 
