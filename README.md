@@ -22,11 +22,17 @@ Also, I'm Chief Technical Advisor and Department Leader at Uzinfocom Open Source
 
 I like the design and concept of houndstooth, which is why I adopted houndstooth as my logo. Especially, I like when houndstooth comes in patterns and you can come up with different colors or even pixelate ligatures which makes it look very techy. Black and White pixel perfect or orange CRT'ish pixelated houndstooth is my most favorite ones amongst all combinations.
 
-## Goodbye GitHub
+## Goodbye [GitHub]
 
-You might mention that there are no repositories in my GitHub profile. I got fed up from all these unwanted AI thingies getting shoved in my face at GitHub, so I decided to move to [Codeberg]. Also, after a while I migrated many of the things from GitHub to [Codeberg]. My GitHub profile serves me only as a mean of contribution to projects hosted at GitHub.
+You might have mentioned that there are no repositories in my [GitHub] profile. I got fed up from all these unwanted AI thingies getting shoved in my face at [GitHub], so I decided to move to [Codeberg]. Also, after a while I migrated many of the things from [GitHub] to [Codeberg]. My GitHub profile serves me only as a mean of contribution to projects hosted at [GitHub].
 
-[Codeberg]: https://codeberg.org/
+## And Then Goodbye Codeberg [UPDATE]
+
+The story continues with me moving to Codeberg only to witness [Codeberg banning LLM and Crypto related projects](https://blog.codeberg.org/protecting-our-floss-commons-from-llms.html) from the platform. Well, jokes aside that was a huge "FAAAAH" moment to me. I'm also not into projects that have AI contributions and personally avoided them at all cost. However, I came to Codeberg seeking "freedom", but when a platform starts restricting certain category of projects and put limitations, well... this doesn't give so called "freedom vibes". Anyways, I moved to [Radicle]!
+
+[GitHub]: https://github.com/orzklv
+[Codeberg]: https://codeberg.org/orzklv
+[Radicle]: https://look.orzklv.uz
 
 <p>
   <a href="#">
