@@ -3,7 +3,7 @@
 
   inputs = {
     # Stable for keeping thins clean
-    # nixpkgs.url = "github:nixos/nixpkgs/nixos-25.05";
+    # nixpkgs.url = "github:nixos/nixpkgs/26.11";
 
     # Fresh and new for testing
     nixpkgs.url = "https://git.oss.uzinfocom.uz/xinux/nixpkgs/archive/nixos-unstable.tar.gz";
@@ -17,7 +17,11 @@
     flake-parts.lib.mkFlake { inherit inputs; } (
       { ... }:
       {
-        systems = [ "x86_64-linux" ];
+        systems = [
+          "aarch64-darwin"
+          "aarch64-linux"
+          "x86_64-linux"
+        ];
         perSystem =
           { pkgs, ... }:
           {
